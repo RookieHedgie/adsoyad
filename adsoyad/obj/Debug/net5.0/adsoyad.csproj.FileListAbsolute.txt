@@ -1,0 +1,15 @@
+/Users/farukyildirim/Projects/adsoyad/adsoyad/bin/Debug/net5.0/adsoyad.deps.json
+/Users/farukyildirim/Projects/adsoyad/adsoyad/bin/Debug/net5.0/adsoyad.runtimeconfig.json
+/Users/farukyildirim/Projects/adsoyad/adsoyad/bin/Debug/net5.0/adsoyad.runtimeconfig.dev.json
+/Users/farukyildirim/Projects/adsoyad/adsoyad/bin/Debug/net5.0/adsoyad.dll
+/Users/farukyildirim/Projects/adsoyad/adsoyad/bin/Debug/net5.0/ref/adsoyad.dll
+/Users/farukyildirim/Projects/adsoyad/adsoyad/bin/Debug/net5.0/adsoyad.pdb
+/Users/farukyildirim/Projects/adsoyad/adsoyad/obj/Debug/net5.0/adsoyad.csproj.AssemblyReference.cache
+/Users/farukyildirim/Projects/adsoyad/adsoyad/obj/Debug/net5.0/adsoyad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farukyildirim/Projects/adsoyad/adsoyad/obj/Debug/net5.0/adsoyad.AssemblyInfoInputs.cache
+/Users/farukyildirim/Projects/adsoyad/adsoyad/obj/Debug/net5.0/adsoyad.AssemblyInfo.cs
+/Users/farukyildirim/Projects/adsoyad/adsoyad/obj/Debug/net5.0/adsoyad.csproj.CoreCompileInputs.cache
+/Users/farukyildirim/Projects/adsoyad/adsoyad/obj/Debug/net5.0/adsoyad.dll
+/Users/farukyildirim/Projects/adsoyad/adsoyad/obj/Debug/net5.0/ref/adsoyad.dll
+/Users/farukyildirim/Projects/adsoyad/adsoyad/obj/Debug/net5.0/adsoyad.pdb
+/Users/farukyildirim/Projects/adsoyad/adsoyad/obj/Debug/net5.0/adsoyad.genruntimeconfig.cache
